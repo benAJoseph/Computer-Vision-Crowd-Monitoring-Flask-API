@@ -1,5 +1,5 @@
 
-# 👥 Crowd Monitoring Flask API
+# Crowd Monitoring (Flask API)
 
 This is a Flask-based REST API that performs crowd monitoring using computer vision techniques. It uses a pre-trained YOLOv8 object detection model to detect people in video files, counts them in each frame, annotates the frames with bounding boxes and crowd counts, and returns a processed video.
 
