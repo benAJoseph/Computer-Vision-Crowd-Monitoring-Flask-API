@@ -32,14 +32,15 @@ This is a Flask-based REST API that performs crowd monitoring using computer vis
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
-crowd-monitoring-api/
+Computer-Vision-Crowd-Monitoring-Flask-API/
 │
 ├── app.py                  # Main Flask application
 ├── uploads/                # Folder for uploaded videos
 ├── processed/              # Folder for processed output videos
+├── files/                  # Folder with support files
 └── README.md               
 ```
 
