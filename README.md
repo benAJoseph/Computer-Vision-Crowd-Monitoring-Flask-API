@@ -38,6 +38,7 @@ This is a Flask-based REST API that performs crowd monitoring using computer vis
 Computer-Vision-Crowd-Monitoring-Flask-API/
 │
 ├── app.py                  # Main Flask application
+├── requirements.txt        # Requirements for python environment
 ├── uploads/                # Folder for uploaded videos
 ├── processed/              # Folder for processed output videos
 ├── files/                  # Folder with support files
