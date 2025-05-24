@@ -51,7 +51,7 @@ Computer-Vision-Crowd-Monitoring-Flask-API/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/crowd-monitoring-api.git
+   git clone https://github.com/benAJoseph/Computer-Vision-Crowd-Monitoring-Flask-API.git
    cd crowd-monitoring-api
    ```
 
